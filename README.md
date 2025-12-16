@@ -8,4 +8,4 @@ array_problems
 4.Second smallest element of array(array is not sorted)
 5.Check if array is sorted.
 6.Remove duplicates from array.
-7.
+
