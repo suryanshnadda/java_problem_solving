@@ -16,6 +16,8 @@ The code is suitable for interview preparation and academic practice.
 4. Second smallest element of an array (unsorted array).
 5. Check whether an array is sorted.
 6. Remove duplicate elements from an array.
+7. Move array elements left by one place.
+8. Move array elements right by one place.
 
 ---
 
