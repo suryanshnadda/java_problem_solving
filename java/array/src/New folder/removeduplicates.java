@@ -19,8 +19,6 @@ public class removeduplicates {
             break;
            }
            }
-
-
            if(!found)
            {
             arrnew[index]=arr[i];

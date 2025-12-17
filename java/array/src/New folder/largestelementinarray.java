@@ -1,4 +1,5 @@
-public class largestelementinarray {
+public class largestelementinarray 
+{
     public static void main(String[] args) throws Exception {
         
         int arr[] ={1,2,3,400,5,6,7,8};
@@ -11,7 +12,6 @@ public class largestelementinarray {
                 max=arr[i];
             }
         }
-
         System.out.println("largest element is " + max);
     }
 }
