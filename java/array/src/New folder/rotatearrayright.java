@@ -10,12 +10,10 @@ public class rotatearrayright
            {
             arr[i+1]=arr[i];
            }
-           
            arr[0]=value;
            System.out.println("    ");
             for(int k=0;k<len;k++)
            {
-            
              System.out.println(arr[k]);
            }
         }
